@@ -1,0 +1,3 @@
+dydx-v3-python
+ccxt
+pandas
